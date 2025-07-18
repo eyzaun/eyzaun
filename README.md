@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 # Eyüp Zafer Ünal
 
-<img align="center" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRmcWUwaGFkbW1lczJoYzBjbHBxZjMyeDdhdDQycGdzamwyOGhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtB2l3jHiJsFa/giphy.gif"/>
 
 ## Hakkında
 
