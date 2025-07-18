@@ -39,7 +39,7 @@ Eğer benimle iletişime geçmek isterseniz, aşağıdaki platformlardan ulaşab
 
 - **E-posta**: eyzaun@gmail.com
 - **LinkedIn**: [LinkedIn Profilim]([https://linkedin.com/in/eyzaun](https://www.linkedin.com/in/eyzaun))
-- **Twitter**: [@eyupzaferunal](https://twitter.com/)
+- **Twitter**: [@eyzaun](https://x.com/)
 
 ---
 
