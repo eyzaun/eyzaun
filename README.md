@@ -37,8 +37,8 @@ Merhaba! Ben Eyüp Zafer Ünal. Bilgisayar mühendisiyim ve teknolojiye olan tut
 
 Eğer benimle iletişime geçmek isterseniz, aşağıdaki platformlardan ulaşabilirsiniz:
 
-- **E-posta**: eyupzaferunal@example.com
-- **LinkedIn**: [LinkedIn Profilim]([https://linkedin.com/in/eyupzaferunal](https://www.linkedin.com/in/ey%C3%BCp-zafer-%C3%BCnal-583975190/))
+- **E-posta**: eyzaun@gmail.com
+- **LinkedIn**: [LinkedIn Profilim]([https://linkedin.com/in/eyzaun](https://www.linkedin.com/in/eyzaun))
 - **Twitter**: [@eyupzaferunal](https://twitter.com/)
 
 ---
